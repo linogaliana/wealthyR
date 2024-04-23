@@ -1,0 +1,32 @@
+Package: wealthyR
+Type: Package
+Title: Estimate wealth life-cycle dynamics from survey data using R
+Version: 1.0
+Date: 2019-01-22
+Author: Lino Galiana
+Maintainer: Lino Galiana <lino.galiana@insee.fr>
+Description: An R package to estimate how wealth evolves along life-cycle.
+License: GPL (>= 3)
+Imports:
+    capitulation,
+    data.table,
+    foreach,
+    ggplot2,
+    haven,
+    lest,
+    magrittr,
+    Matrix,
+    Rdpack,
+    stringi,
+    stringr
+RoxygenNote: 7.2.1
+RdMacros: Rdpack
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat,
+    gmm
+VignetteBuilder: knitr
+LazyData: true
+Depends: R (>= 2.10)
+Encoding: UTF-8

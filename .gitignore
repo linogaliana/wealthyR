@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.csv
+
+*/revdep/*
+*Rcheck
+
+inst/*
+
+*.RData
+*.dll
+*.o
+
+!inst/MSMpython.py
