@@ -1,7 +1,7 @@
 # `wealthyR`
 
 <div id="badges">
-  <a href="https://linogaliana.fr">
+  <a href="https://www.insee.fr/fr/statistiques/6793990">
     <img src="https://img.shields.io/badge/See the Working Paper-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
